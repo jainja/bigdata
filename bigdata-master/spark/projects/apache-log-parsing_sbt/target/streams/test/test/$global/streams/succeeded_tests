@@ -1,3 +1,4 @@
 #Successful Tests
-#Mon Dec 17 17:43:34 GST 2018
-com.cloudxlab.logparsing.LogParserSpec=1545054202891
+#Mon Dec 17 22:17:04 GST 2018
+com.cloudxlab.logparsing.SampleTest=1545070624497
+com.cloudxlab.logparsing.LogParserSpec=1545070613998

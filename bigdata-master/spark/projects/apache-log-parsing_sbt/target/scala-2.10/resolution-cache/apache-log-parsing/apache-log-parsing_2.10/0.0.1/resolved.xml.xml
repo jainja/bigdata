@@ -4,7 +4,7 @@
 		module="apache-log-parsing_2.10"
 		revision="0.0.1"
 		status="integration"
-		publication="20181217170805"
+		publication="20181217213319"
 	>
 		<description>
 		Apache Log Parsing
